@@ -1,0 +1,2 @@
+# MyFirstRepo
+Min første repository 
